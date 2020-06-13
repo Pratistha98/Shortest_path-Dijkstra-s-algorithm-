@@ -1,0 +1,872 @@
+Vertex 0 is connected to: 2 1 
+Vertex 1 is connected to: 6 3 0 
+Vertex 2 is connected to: 8 0 
+Vertex 3 is connected to: 5 4 1 
+Vertex 4 is connected to: 3 
+Vertex 5 is connected to: 6 3 
+Vertex 6 is connected to: 7 1 5 
+Vertex 7 is connected to: 8 6 
+Vertex 8 is connected to: 2 7 
+
+
+popped1 up: ID: i0
+change1 in distance 0.01
+change1 in parent ID: i0
+change1 in distance 0.01
+change1 in parent ID: i0
+Changedhere1: 
+Vertex ID: i0 Visited true Distance 0.0 Parent null
+Vertex ID: i1 Visited false Distance 0.01 Parent ID: i0
+Vertex ID: i2 Visited false Distance 0.01 Parent ID: i0
+Vertex ID: i3 Visited false Distance 2.147483647E9 Parent null
+Vertex ID: i4 Visited false Distance 2.147483647E9 Parent null
+Vertex ID: i5 Visited false Distance 2.147483647E9 Parent null
+Vertex ID: i6 Visited false Distance 2.147483647E9 Parent null
+Vertex ID: i7 Visited false Distance 2.147483647E9 Parent null
+Vertex ID: i8 Visited false Distance 2.147483647E9 Parent null
+ 
+popped1 up: ID: i8
+Changedhere1: 
+Vertex ID: i0 Visited true Distance 0.0 Parent null
+Vertex ID: i1 Visited false Distance 0.01 Parent ID: i0
+Vertex ID: i2 Visited false Distance 0.01 Parent ID: i0
+Vertex ID: i3 Visited false Distance 2.147483647E9 Parent null
+Vertex ID: i4 Visited false Distance 2.147483647E9 Parent null
+Vertex ID: i5 Visited false Distance 2.147483647E9 Parent null
+Vertex ID: i6 Visited false Distance 2.147483647E9 Parent null
+Vertex ID: i7 Visited false Distance 2.147483647E9 Parent null
+Vertex ID: i8 Visited true Distance 2.147483647E9 Parent null
+ 
+popped1 up: ID: i1
+change1 in distance 0.05
+change1 in parent ID: i1
+change1 in distance 0.03
+change1 in parent ID: i1
+Changedhere1: 
+Vertex ID: i0 Visited true Distance 0.0 Parent null
+Vertex ID: i1 Visited true Distance 0.01 Parent ID: i0
+Vertex ID: i2 Visited false Distance 0.01 Parent ID: i0
+Vertex ID: i3 Visited false Distance 0.03 Parent ID: i1
+Vertex ID: i4 Visited false Distance 2.147483647E9 Parent null
+Vertex ID: i5 Visited false Distance 2.147483647E9 Parent null
+Vertex ID: i6 Visited false Distance 0.05 Parent ID: i1
+Vertex ID: i7 Visited false Distance 2.147483647E9 Parent null
+Vertex ID: i8 Visited true Distance 2.147483647E9 Parent null
+ 
+popped1 up: ID: i2
+change1 in distance 0.04
+change1 in parent ID: i2
+Changedhere1: 
+Vertex ID: i0 Visited true Distance 0.0 Parent null
+Vertex ID: i1 Visited true Distance 0.01 Parent ID: i0
+Vertex ID: i2 Visited true Distance 0.01 Parent ID: i0
+Vertex ID: i3 Visited false Distance 0.03 Parent ID: i1
+Vertex ID: i4 Visited false Distance 2.147483647E9 Parent null
+Vertex ID: i5 Visited false Distance 2.147483647E9 Parent null
+Vertex ID: i6 Visited false Distance 0.05 Parent ID: i1
+Vertex ID: i7 Visited false Distance 2.147483647E9 Parent null
+Vertex ID: i8 Visited true Distance 0.04 Parent ID: i2
+ 
+popped1 up: ID: i6
+change1 in distance 0.060000000000000005
+change1 in parent ID: i6
+change1 in distance 0.060000000000000005
+change1 in parent ID: i6
+Changedhere1: 
+Vertex ID: i0 Visited true Distance 0.0 Parent null
+Vertex ID: i1 Visited true Distance 0.01 Parent ID: i0
+Vertex ID: i2 Visited true Distance 0.01 Parent ID: i0
+Vertex ID: i3 Visited false Distance 0.03 Parent ID: i1
+Vertex ID: i4 Visited false Distance 2.147483647E9 Parent null
+Vertex ID: i5 Visited false Distance 0.060000000000000005 Parent ID: i6
+Vertex ID: i6 Visited true Distance 0.05 Parent ID: i1
+Vertex ID: i7 Visited false Distance 0.060000000000000005 Parent ID: i6
+Vertex ID: i8 Visited true Distance 0.04 Parent ID: i2
+ 
+popped1 up: ID: i4
+Changedhere1: 
+Vertex ID: i0 Visited true Distance 0.0 Parent null
+Vertex ID: i1 Visited true Distance 0.01 Parent ID: i0
+Vertex ID: i2 Visited true Distance 0.01 Parent ID: i0
+Vertex ID: i3 Visited false Distance 0.03 Parent ID: i1
+Vertex ID: i4 Visited true Distance 2.147483647E9 Parent null
+Vertex ID: i5 Visited false Distance 0.060000000000000005 Parent ID: i6
+Vertex ID: i6 Visited true Distance 0.05 Parent ID: i1
+Vertex ID: i7 Visited false Distance 0.060000000000000005 Parent ID: i6
+Vertex ID: i8 Visited true Distance 0.04 Parent ID: i2
+ 
+popped1 up: ID: i3
+change1 in distance 0.05
+change1 in parent ID: i3
+change1 in distance 0.05
+change1 in parent ID: i3
+Changedhere1: 
+Vertex ID: i0 Visited true Distance 0.0 Parent null
+Vertex ID: i1 Visited true Distance 0.01 Parent ID: i0
+Vertex ID: i2 Visited true Distance 0.01 Parent ID: i0
+Vertex ID: i3 Visited true Distance 0.03 Parent ID: i1
+Vertex ID: i4 Visited true Distance 0.05 Parent ID: i3
+Vertex ID: i5 Visited false Distance 0.05 Parent ID: i3
+Vertex ID: i6 Visited true Distance 0.05 Parent ID: i1
+Vertex ID: i7 Visited false Distance 0.060000000000000005 Parent ID: i6
+Vertex ID: i8 Visited true Distance 0.04 Parent ID: i2
+ 
+popped1 up: ID: i5
+Changedhere1: 
+Vertex ID: i0 Visited true Distance 0.0 Parent null
+Vertex ID: i1 Visited true Distance 0.01 Parent ID: i0
+Vertex ID: i2 Visited true Distance 0.01 Parent ID: i0
+Vertex ID: i3 Visited true Distance 0.03 Parent ID: i1
+Vertex ID: i4 Visited true Distance 0.05 Parent ID: i3
+Vertex ID: i5 Visited true Distance 0.05 Parent ID: i3
+Vertex ID: i6 Visited true Distance 0.05 Parent ID: i1
+Vertex ID: i7 Visited false Distance 0.060000000000000005 Parent ID: i6
+Vertex ID: i8 Visited true Distance 0.04 Parent ID: i2
+ 
+popped1 up: ID: i7
+Changedhere1: 
+Vertex ID: i0 Visited true Distance 0.0 Parent null
+Vertex ID: i1 Visited true Distance 0.01 Parent ID: i0
+Vertex ID: i2 Visited true Distance 0.01 Parent ID: i0
+Vertex ID: i3 Visited true Distance 0.03 Parent ID: i1
+Vertex ID: i4 Visited true Distance 0.05 Parent ID: i3
+Vertex ID: i5 Visited true Distance 0.05 Parent ID: i3
+Vertex ID: i6 Visited true Distance 0.05 Parent ID: i1
+Vertex ID: i7 Visited true Distance 0.060000000000000005 Parent ID: i6
+Vertex ID: i8 Visited true Distance 0.04 Parent ID: i2
+ 
+Distance travelled: ID: i8 0.04
+Arrays of edges 8 2
+Arrays of edges 2 0
+
+
+
+
+
+
+import java.awt.List;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.Map.Entry;
+import java.util.PriorityQueue;
+
+public class Main {
+
+	// Hashmaps
+	static HashMap<String, Vertex> idMap = new HashMap<String, Vertex>();
+	static HashMap<Vertex, Integer> vertexMap = new HashMap<Vertex, Integer>();
+	static HashMap<Integer, Vertex> indexMap = new HashMap<Integer, Vertex>();
+	static int count = 0;
+	// Matrix
+	static Graph graph;
+
+	public static void main(String[] args) throws IOException {
+		String[] strline = new String[4];
+		String one, two, three, four;
+
+		String input = args[0];
+		String start = args[1];
+		String end = args[2];
+		String meridian = args[3];
+
+		String lowercase = meridian.toLowerCase();
+
+		FileInputStream fstream = new FileInputStream(input);
+		BufferedReader br = new BufferedReader(new InputStreamReader(fstream));
+
+		String getline;
+
+		ArrayList<Edge> list = new ArrayList<Edge>();
+		ArrayList<Integer> starting = new ArrayList<Integer>();
+		ArrayList<Integer> ending = new ArrayList<Integer>();
+
+		while ((getline = br.readLine()) != null) {
+			strline = getline.split("\\s+");
+			one = strline[0];
+			two = strline[1];
+			three = strline[2];
+			four = strline[3];
+
+			if (one.equals("i")) {
+				Vertex v = new Vertex(two, Double.parseDouble(three), Double.parseDouble(four));
+
+				idMap.put(two, v); // ID AND VERTEX
+				vertexMap.put(v, count); // VERTEX AND index
+				indexMap.put(count, v); // Count and vertex
+				count = count + 1;
+
+			} else if (one.equals("r")) {
+				Edge e = new Edge(two, vertexMap.get(idMap.get(three)), vertexMap.get(idMap.get(four))); // HASHMAP
+				list.add(e);
+				starting.add(vertexMap.get(idMap.get(three)));
+				ending.add(vertexMap.get(idMap.get(four)));
+
+			} else {
+				System.out.println("Error");
+			}
+
+		}
+
+		// INSERT TO THE GRAPH
+
+		graph = new Graph(count + 1);
+		for (int i = 0; i < starting.size(); i++) {
+			graph.addEdge(starting.get(i), ending.get(i));
+		}
+		//graph.printGraph();
+
+		ArrayList<shortest> paths = new ArrayList<shortest>();
+		ArrayList<shortest> paths2 = new ArrayList<shortest>();
+		for (int i = 0; i < count; i++) {
+			paths.add(new shortest(indexMap.get(i), false, Integer.MAX_VALUE, null));
+		}
+////==================================================================================================================================
+
+		if (lowercase.equals("no")) {
+
+			shortpath(paths, graph, start); // already modified the path array
+			shortestpath(start, paths, end);
+		}
+
+//====================================================================================================
+		// Spanning
+		if (lowercase.equals("yes")) {
+			shortpath(paths, graph, start); // already modified the path array
+
+			shortestpath(start, paths, end);
+
+			for (int i = 0; i < count; i++) {
+				paths2.add(new shortest(indexMap.get(i), false, Integer.MAX_VALUE, null));
+			}
+			System.out.println("  ");
+			System.out.println(
+					"MERIDIAN PATH ======================================================================================");
+			minspan(paths2, graph, start, end);
+			minspanpath(start, paths2, end);
+		}
+
+		fstream.close();
+	}
+
+	// Find the shortest path
+	public static void shortpath(ArrayList<shortest> paths, Graph g, String start) {
+		PriorityQueue<shortest> pQueue = new PriorityQueue<shortest>();
+
+		Vertex v = idMap.get(start);
+		int s = vertexMap.get(v);
+		paths.set(s, (new shortest(v, false, 0, null)));
+		// add to the priority queue
+		for (shortest i : paths) {
+			pQueue.add(i);
+		}
+		// MAIN partur
+		while (!pQueue.isEmpty()) {
+			shortest current = pQueue.poll();
+			// System.out.println("popped up: " + current.v.toString() );
+			current.visited = true;
+			int i = vertexMap.get(current.v);
+			
+				if (graph.list[i].size() > 0) {
+				//	System.out.println("size " + i +" " + graph.list[i].size());
+					for (int j = 0; j < graph.list[i].size(); j++) {
+						int value = graph.list[i].get(j);
+						double dist = distance(current.v.lattitude, current.v.longitude, indexMap.get(value).lattitude,
+								indexMap.get(value).longitude);
+						dist = current.distance + dist; // add distance
+						if (dist < paths.get(value).distance) {
+							// update the value
+							paths.get(value).distance = dist;
+							paths.get(value).p = current.v; // update the parent
+						}
+
+					}
+				}
+				if (!pQueue.isEmpty()) { // Fix issue
+					shortest out = pQueue.poll();
+					pQueue.add(out);
+				}
+			
+
+//			AdjList A = g.getAdjList(vertexMap.get(current.v));
+//			for (int t = A.begin(); !A.end(); t = A.next()) { // ITERATOR
+//				if (t != -1) {
+//					double dist = distance(current.v.lattitude, current.v.longitude, indexMap.get(t).lattitude,
+//							indexMap.get(t).longitude);
+//					dist = current.distance + dist; // add distance
+//					if (dist < paths.get(t).distance) {
+//						// update the value
+//						paths.get(t).distance = dist;
+//						paths.get(t).p = current.v; // update the parent
+//					}
+//				}
+//			}
+
+//			PriorityQueue<shortest> pQueue2 = new PriorityQueue<shortest>();
+//			// int c = 0;
+//			while (!pQueue.isEmpty()) {
+//
+//				shortest out = pQueue.poll();
+//				System.out.println("popped bottom: " + out.v.toString() );
+//				pQueue2.add(out);
+//			
+//
+//			}
+//			pQueue = pQueue2;
+
+//		}
+			// Print
+//		for (int i = 0; i < paths.size(); i++) {
+//			System.out.println("Vertex " + paths.get(i).v.toString() + " Visited " + paths.get(i).visited + " Distance "
+//					+ paths.get(i).distance + " Parent " + paths.get(i).p);
+		}
+	}
+
+	// Find the shortestpath
+	public static void shortestpath(String start, ArrayList<shortest> paths, String end) {
+
+		Vertex s = idMap.get(start);
+		Vertex e = idMap.get(end);
+
+		int sv = vertexMap.get(s);
+		int ev = vertexMap.get(e);
+		if (paths.get(ev).distance == Integer.MAX_VALUE) {
+			System.out.println("THERE IS NO PATH");
+		} else {
+			System.out.println(
+					"Distance travelled: " + paths.get(ev).v.toString() + " " + paths.get(ev).distance + " miles");
+
+			while (!paths.get(sv).v.equals(paths.get(ev).v)) {
+				System.out.println("Path: " + paths.get(ev).v.toString());
+				Vertex update = paths.get(ev).p;
+				paths.set(ev, (new shortest(update, paths.get(vertexMap.get(update)).visited,
+						paths.get(vertexMap.get(update)).distance, paths.get(vertexMap.get(update)).p)));
+			}
+		}
+
+	}
+
+//====================================================================
+	public static void minspan(ArrayList<shortest> paths, Graph g, String start, String end) {
+		PriorityQueue<shortest> pQueue = new PriorityQueue<shortest>();
+		Vertex v = idMap.get(start);
+		int s = vertexMap.get(v);
+		Vertex e = idMap.get(end);
+
+		paths.set(s, (new shortest(v, false, 0, null)));
+		// add to the priority queue
+		for (shortest i : paths) {
+			pQueue.add(i);
+		}
+
+//		// MAIN part
+		while (pQueue.size() != 0) {
+			shortest current = pQueue.poll();
+			// System.out.println("popped up: " + current.v.toString() );
+			current.visited = true;
+			int i = vertexMap.get(current.v);
+			
+				if (graph.list[i].size() > 0) {
+				//	System.out.println("size " + i +" " + graph.list[i].size());
+					for (int j = 0; j < graph.list[i].size(); j++) {
+						int value = graph.list[i].get(j);
+						double dist = distance(current.v.lattitude, current.v.longitude, indexMap.get(value).lattitude,
+								indexMap.get(value).longitude);
+						//dist = current.distance + dist; // add distance
+						if (dist < paths.get(value).distance && !paths.get(value).visited) {
+							// update the value
+							paths.get(value).distance = dist;
+							paths.get(value).p = current.v; // update the parent
+						}
+
+					}
+				}
+				if (!pQueue.isEmpty()) { // Fix issue
+					shortest out = pQueue.poll();
+					pQueue.add(out);
+				}
+				
+		}
+//			shortest current = pQueue.poll();
+//			if (current.v.equals(e))
+//				break;
+//			current.visited = true;
+//			AdjList A = g.getAdjList(vertexMap.get(current.v));
+//			for (int t = A.begin(); !A.end(); t = A.next()) { // ITERATOR
+//				if (t != -1) {
+//					double dist = distance(current.v.lattitude, current.v.longitude, indexMap.get(t).lattitude,
+//							indexMap.get(t).longitude);
+//					if (dist < paths.get(t).distance && !paths.get(t).visited) {
+//						paths.get(t).distance = dist;
+//						paths.get(t).p = current.v; // update the parent
+//					}
+//				}
+//			}
+//			if (!pQueue.isEmpty()) {  // Fix issue
+//				shortest out = pQueue.poll();
+//				pQueue.add(out);	
+//			}
+////			PriorityQueue<shortest> pQueue2 = new PriorityQueue<shortest>();
+////			while (!pQueue.isEmpty()) {
+////
+////				shortest out = pQueue.poll();
+////				pQueue2.add(out);
+////			}
+////			pQueue = pQueue2;
+//		}
+		// Print
+//		for (int i = 0; i < paths.size(); i++) {
+//			System.out.println("Vertex " + paths.get(i).v.toString() + " Visited " + paths.get(i).visited + " Distance "
+//					+ paths.get(i).distance + " Parent " + paths.get(i).p);
+//		}
+
+		// Print the path
+	}
+
+	public static void minspanpath(String start, ArrayList<shortest> paths, String end) {
+
+		Vertex s = idMap.get(start);
+		Vertex e = idMap.get(end);
+
+		int sv = vertexMap.get(s);
+		int ev = vertexMap.get(e);
+		// System.out.println("Distance travelled: " + paths.get(ev).v.toString() + " "
+		// + paths.get(ev).distance + " miles");
+
+		while (!paths.get(sv).v.equals(paths.get(ev).v)) {
+			System.out.println("Path: " + paths.get(ev).v.toString());
+			Vertex update = paths.get(ev).p;
+			paths.set(ev, (new shortest(update, paths.get(vertexMap.get(update)).visited,
+					paths.get(vertexMap.get(update)).distance, paths.get(vertexMap.get(update)).p)));
+		}
+
+	}
+
+	// CODE from GEEKS FOR GEEKS
+	public static double distance(double lat1, double lon1, double lat2, double lon2) {
+// The math module contains a function 
+// named toRadians which converts from 
+// degrees to radians. 
+		lon1 = Math.toRadians(lon1);
+		lon2 = Math.toRadians(lon2);
+		lat1 = Math.toRadians(lat1);
+		lat2 = Math.toRadians(lat2);
+
+// Haversine formula  
+		double dlon = lon2 - lon1;
+		double dlat = lat2 - lat1;
+		double a = Math.pow(Math.sin(dlat / 2), 2) + Math.cos(lat1) * Math.cos(lat2) * Math.pow(Math.sin(dlon / 2), 2);
+		double c = 2 * Math.asin(Math.sqrt(a));
+
+// Radius of earth in kilometers. Use 3956  
+// for miles 
+		double r = 6371;
+
+// calculate the result 
+		double round = (c * r);
+		return (double) Math.round(round * 100d) / 100d; // Round to 2 decimal points
+	}
+
+// driver code 
+
+}
+
+////////==========================
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.Map.Entry;
+import java.util.PriorityQueue;
+
+public class Main {
+
+	// Hashmaps
+	static HashMap<String, Vertex> first = new HashMap();
+	static HashMap<Vertex, Integer> second = new HashMap();
+	static HashMap<Integer, Vertex> third = new HashMap();
+	static int count = 0;
+	// Matrix
+	double adj[][];
+
+	public static void main(String[] args) throws IOException {
+		String[] strline = new String[4];
+		String one, two, three, four;
+
+//		double five, six, seven, eight;
+		try {
+			// READ THE FILE
+			Scanner input = new Scanner(System.in);
+			Scanner data = new Scanner(System.in);
+
+//			String input = args[0];
+//			String start = args[1];
+//			String end = args[2];
+			
+			
+//			FileInputStream fstream = new FileInputStream(input);
+//			BufferedReader br = new BufferedReader(new InputStreamReader(fstream));
+
+//			String getline;
+//while ((getline = br.readLine()) != null) {
+//				
+//				strline = getline.split("\\s+");	
+//===============================			
+			
+			ArrayList<Edge> list = new ArrayList<Edge>();
+
+			//System.out.print("Enter the file name: ");
+			File file = new File("ur2.txt");
+			input = new Scanner(file);
+
+			while (input.hasNextLine()) {
+				
+				String line = input.nextLine();
+				strline = line.split("\\s+");
+
+				one = strline[0];
+				two = strline[1];
+				three = strline[2];
+				four = strline[3];
+
+				if (one.equals("i")) {
+					// System.out.println(one + " " + two);
+
+					Vertex v = new Vertex(two, Double.parseDouble(three), Double.parseDouble(four));
+
+					first.put(two, v); // ID AND VERTEX
+					second.put(v, count); // VERTEX AND index
+					third.put(count, v); // Count and vertex
+					count = count + 1;
+
+				} else if (one.equals("r")) {
+//					Double d = distance(first.get(three).lattitude, first.get(three).longitude,
+//							first.get(four).lattitude, first.get(four).longitude);
+					Edge e = new Edge(two, second.get(first.get(three)), second.get(first.get(four))); // HASHMAP
+					list.add(e);
+
+				} else {
+					System.out.println("Error");
+				}
+
+			}
+
+			// INSERT TO THE GRAPH
+			Graph graph = new Graph(count + 1, false);
+			for (int i = 0; i < list.size(); i++) {
+				graph.insert(list.get(i));
+			}
+			 graph.show();
+
+			ArrayList<shortest> paths = new ArrayList<shortest>();
+			for (int i = 0; i < count; i++) {
+				paths.add(new shortest(third.get(i), false, Integer.MAX_VALUE, null));
+			}
+//==================================================================================================================================
+			// GET the file from the user
+//
+//			System.out.print("Enter the starting id:");
+//			String start = data.next();
+//			System.out.print("Enter the end id:");
+//			String end = data.next();
+//			// TEST
+			System.out.println(" TEST");
+			for (int i = 0; i < paths.size(); i++) {
+				System.out.println("Vertex " + paths.get(i).v.toString());
+			}
+			shortpath(paths, graph, "i0"); // already modified the path array
+
+			shortestpath("i0", paths, "i8");
+
+//====================================================================================================
+			// Spanning
+
+			ArrayList<shortest> paths2 = new ArrayList<shortest>();
+			for (int i = 0; i < count; i++) {
+				paths2.add(new shortest(third.get(i), false, Integer.MAX_VALUE, null));
+			}
+			System.out.println("  ");
+			System.out.println("HERE ======================================================================================");
+			
+			
+//			minspan(paths2, graph, start, end);
+//			minspanpath(start, paths2, end);
+			input.close();
+			// Close the input stream
+			//fstream.close();
+		} 
+		catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	// Find the shortest path
+	public static void shortpath(ArrayList<shortest> paths, Graph g, String start) {
+		PriorityQueue<shortest> pQueue = new PriorityQueue<shortest>();
+
+		Vertex v = first.get(start);
+		int s = second.get(v);
+		paths.set(s, (new shortest(v, false, 0, null)));
+		// add to the priority queue
+		for (shortest i : paths) {
+			pQueue.add(i);
+		}
+		// MAIN partur
+		while (!pQueue.isEmpty()) {
+			shortest current = pQueue.poll();
+			// System.out.println("Polls dj:" + second.get(current.v) + " distance: "
+			// +current.distance);
+			current.visited = true;
+			AdjList A = g.getAdjList(second.get(current.v));
+			for (int t = A.begin(); !A.end(); t = A.next()) { // ITERATOR
+				if (t != -1) {
+					double dist = distance(current.v.lattitude, current.v.longitude, third.get(t).lattitude,
+							third.get(t).longitude);
+					dist = current.distance + dist; // add distance
+					if (dist < paths.get(t).distance) {
+						// update the value
+//						System.out.println("I am current " + second.get(current.v));
+//						System.out.println("I am t: " + t + " " + paths.get(t).v.toString());
+						paths.get(t).distance = dist;
+						paths.get(t).p = current.v; // update the parent
+					}
+
+				}
+
+			}
+			PriorityQueue<shortest> pQueue2 = new PriorityQueue<shortest>();
+			//int c = 0;
+			while (!pQueue.isEmpty()) {
+
+				shortest out = pQueue.poll();
+				pQueue2.add(out);
+
+			}
+			pQueue = pQueue2;
+
+		}
+		// Print
+		for (int i = 0; i < paths.size(); i++) {
+			System.out.println("Vertex " + paths.get(i).v.toString() + " Visited " + paths.get(i).visited + " Distance "
+					+ paths.get(i).distance + " Parent " + paths.get(i).p);
+		}
+	}
+
+	// Find the shortestpath
+	public static void shortestpath(String start, ArrayList<shortest> paths, String end) {
+
+		Vertex s = first.get(start);
+		Vertex e = first.get(end);
+
+		int sv = second.get(s);
+		int ev = second.get(e);
+		System.out.println("Distance travelled: " + paths.get(ev).v.toString() + " " + paths.get(ev).distance);
+
+		while (!paths.get(sv).v.equals(paths.get(ev).v)) {
+			System.out.println("Path: " + paths.get(ev).v.toString());
+			Vertex update = paths.get(ev).p;
+			paths.set(ev, (new shortest(update, paths.get(second.get(update)).visited,
+					paths.get(second.get(update)).distance, paths.get(second.get(update)).p)));
+		}
+
+	}
+
+//====================================================================
+	public static void minspan(ArrayList<shortest> paths, Graph g, String start, String end) {
+		PriorityQueue<shortest> pQueue = new PriorityQueue<shortest>();
+		Vertex v = first.get(start);
+		int s = second.get(v);
+		Vertex e = first.get(end);
+
+		paths.set(s, (new shortest(v, false, 0, null)));
+		// add to the priority queue
+		for (shortest i : paths) {
+			pQueue.add(i);
+			// System.out.println("TEST Down: " + i.v.toString());
+		}
+
+		// MAIN part
+		while (pQueue.size() != 0) {
+			shortest current = pQueue.poll();
+			if (current.v.equals(e))
+				break;
+			// System.out.println("Polled in Prim's:" + current.v.toString() + " distance: "
+			// +current.distance);
+			current.visited = true;
+			AdjList A = g.getAdjList(second.get(current.v));
+			for (int t = A.begin(); !A.end(); t = A.next()) { // ITERATOR
+				if (t != -1) {
+					double dist = distance(current.v.lattitude, current.v.longitude, third.get(t).lattitude,
+							third.get(t).longitude);
+					if (dist < paths.get(t).distance && !paths.get(t).visited) {
+//						System.out.println("I am current " + second.get(current.v));
+//						System.out.println("I am t: " + t + " " + paths.get(t).v.toString());
+						paths.get(t).distance = dist;
+						paths.get(t).p = current.v; // update the parent
+					}
+				}
+
+			}
+			PriorityQueue<shortest> pQueue2 = new PriorityQueue<shortest>();
+			while (!pQueue.isEmpty()) {
+
+				shortest out = pQueue.poll();
+				pQueue2.add(out);
+
+			}
+			pQueue = pQueue2;
+			System.out.println(" ");
+		}
+		// Print
+//		for (int i = 0; i < paths.size(); i++) {
+//			System.out.println("Vertex " + paths.get(i).v.toString() + " Visited " + paths.get(i).visited + " Distance "
+//					+ paths.get(i).distance + " Parent " + paths.get(i).p);
+//		}
+
+		// Print the path
+	}
+
+	public static void minspanpath(String start, ArrayList<shortest> paths, String end) {
+
+		Vertex s = first.get(start);
+		Vertex e = first.get(end);
+
+		int sv = second.get(s);
+		int ev = second.get(e);
+		System.out.println("Distance travelled: " + paths.get(ev).v.toString() + " " + paths.get(ev).distance);
+
+		while (!paths.get(sv).v.equals(paths.get(ev).v)) {
+			System.out.println("Path: " + paths.get(ev).v.toString());
+			Vertex update = paths.get(ev).p;
+			paths.set(ev, (new shortest(update, paths.get(second.get(update)).visited,
+					paths.get(second.get(update)).distance, paths.get(second.get(update)).p)));
+		}
+
+	}
+
+	// CODE from GEEKS FOR GEEKS
+	public static double distance(double lat1, double lon1, double lat2, double lon2) {
+// The math module contains a function 
+// named toRadians which converts from 
+// degrees to radians. 
+		lon1 = Math.toRadians(lon1);
+		lon2 = Math.toRadians(lon2);
+		lat1 = Math.toRadians(lat1);
+		lat2 = Math.toRadians(lat2);
+
+// Haversine formula  
+		double dlon = lon2 - lon1;
+		double dlat = lat2 - lat1;
+		double a = Math.pow(Math.sin(dlat / 2), 2) + Math.cos(lat1) * Math.cos(lat2) * Math.pow(Math.sin(dlon / 2), 2);
+		double c = 2 * Math.asin(Math.sqrt(a));
+
+// Radius of earth in kilometers. Use 3956  
+// for miles 
+		double r = 6371;
+
+// calculate the result 
+		double round = (c * r);
+		return (double) Math.round(round * 100d) / 100d; // Round to 2 decimal points
+	}
+
+// driver code 
+
+}
+
+
+
+
+
+
+
+
+/////////=================
+0: 1 2 -1 
+1: 0 3 6 -1 
+2: 0 8 -1 
+3: 1 4 5 -1 
+4: 3 -1 
+5: 3 6 -1 
+6: 1 5 7 -1 
+7: 6 8 -1 
+8: 2 7 -1 
+9: -1
+
+
+
+
+public static void minspan(ArrayList<Edge> list, Graph g, String start, String end) {
+//		PriorityQueue(int initialCapacity, Comparator<E> comparator): Creates a PriorityQueue with 
+//		the specified initial capacity that orders its elements according to the specified comparator.
+		//keep track of distance
+		ArrayList<Edge> edges = new ArrayList<Edge>();
+		PriorityQueue <Edge> pQueue = new PriorityQueue <Edge>(list.size(), Comparator.comparingDouble(o -> o.distance));
+		
+		double min = Integer.MAX_VALUE; 
+		int minimum = -1;
+		
+		AdjList A = g.getAdjList(second.get(first.get(start)));
+		for (int t = A.begin(); !A.end(); t = A.next()) { // ITERATOR
+			if (t != -1) {
+				double check = distance( first.get(start).lattitude, first.get(start).longitude, third.get(t).lattitude, third.get(t).longitude);
+				if(check < min) {
+					min = check;
+					minimum = t;
+				}
+				
+			}
+		}
+		// ID start V, end V, dis 
+		edges.add(new Edge())
+		for (Edge e : list) {
+			pQueue.add(e); //add to the queue 
+		}
+		//Make vertex point to themselves
+		int[] parents = new int[count];
+		for (int i = 0; i < parents.length; i++ ) {
+			parents[i] = i;
+		}
+		
+		while (pQueue.size() != 0) {
+			Edge current = pQueue.poll();
+			int x = find(parents, current.v); //Parent of start 
+			int y = find(parents, current.w); //parent of end
+			
+			if(x != y) {
+				union(x, y, parents);
+				edges.add(current);
+			}
+		}
+		//Print the edge array
+		for (int i = 0; i < edges.size(); i++) {
+			System.out.println("Edge: sourse " + third.get(edges.get(i).v).toString() + " Destination: " + third.get(edges.get(i).w).toString());
+		}
+	}
+	
+	//UNION and FIND
+	public static int find (int [] parent, int v) {
+		if(parent[v] != v)
+			return find(parent, parent[v]);
+		else {
+			return v;
+		}
+	}
+	public static void union (int x, int y, int[] parent) {
+		int x_parent = find(parent, x); //Find parents 
+		int y_parent = find(parent, y);
+		
+		//SEt the parent 
+		parent[y_parent] = x_parent;
+	}
+	

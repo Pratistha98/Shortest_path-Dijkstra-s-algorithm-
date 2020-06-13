@@ -1,0 +1,9 @@
+(base) Pratisthas-MacBook-Air:src pratistha$ java Main monroe.txt i1 i15 no
+HEre is s:1
+Distance travelled: ID: i15 2.147483647E9
+HERE:null
+
+Exception in thread "main" java.lang.NullPointerException
+	at Main.shortestpath(Main.java:238)
+	at Main.main(Main.java:107)
+(base) Pratisthas-MacBook-Air:src pratistha$ 
